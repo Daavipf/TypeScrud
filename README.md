@@ -6,3 +6,10 @@ Simples API com sistema CRUD feito em TypeScript para praticar
 - Recuperar usuário
 - Atualizar usuário
 - Deletar usuário
+
+### Stack
+
+- Node.js
+- Express
+- TypeScript
+- PostgreSQL
