@@ -1,3 +1,8 @@
 ## API de cadastro em TypeScript
 
-simples api de cadastro e consulta de usuários utilizando typescript
+Simples API com sistema CRUD feito em TypeScript para praticar
+
+- Cadastrar usuário
+- Recuperar usuário
+- Atualizar usuário
+- Deletar usuário
